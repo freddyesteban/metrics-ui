@@ -1,6 +1,5 @@
-import { Container } from 'react-bootstrap'
-
 export default function Visits() {
+
   return (
     <main>
       <div className='container'>
