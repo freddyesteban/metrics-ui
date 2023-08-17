@@ -1,6 +1,5 @@
 'use client'
 import { useEffect } from "react"
-// import { logPageVisit } from "@/lib/metrics"
 import { usePathname } from 'next/navigation'
 
 export default function NavigationEvents() {
