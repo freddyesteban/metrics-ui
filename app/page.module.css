@@ -1,0 +1,20 @@
+.main {
+  background-color: #f9fbfd;
+}
+
+.header {
+  height: 1.5rem;
+}
+
+.header_body {
+  border-bottom: 1px solid;
+  border-color: #e3ebf6;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.card_header {
+  background-color: white;
+  height: 3rem;
+}
